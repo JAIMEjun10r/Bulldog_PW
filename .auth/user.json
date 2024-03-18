@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "reminders_session",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InB5dGhvbmlzdGEifQ.VgQABCBU1TweLJ5uvZo8dhFhybXTHvekvV7kuIT5oto",
+      "domain": "127.0.0.1",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
